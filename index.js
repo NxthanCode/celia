@@ -254,14 +254,12 @@ document.getElementById('open-2').addEventListener('click', function() {
     const myMessage = [
         "my perfect celia,",
         "",
-        "i just wanted to say,",
         "you mean everything to me.",
         "",
         "every second without you",
         "feels incomplete.",
         "",
         "i hope we will stay together forever",
-        "youre the best that has ever happened to me.",
         "",
         "all my love",
         "nathan"
